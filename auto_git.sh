@@ -10,6 +10,7 @@ git add -- \
   auto_git.sh \
   微机原理 \
   半导体物理 \
-  
+  Markdown基础用法.md \
+
 git commit -m "$msg"
 git push
